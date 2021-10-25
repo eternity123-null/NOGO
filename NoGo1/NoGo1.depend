@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1610614422 source:d:\my_project\nogo1\general_frame.cpp
+	"NoGo_frame.h"
+	<Windows.h>
+
+1610614422 d:\my_project\nogo1\nogo_frame.h
+	<iostream>
+
+1610882974 source:d:\my_project\nogo1\opitions_frame.cpp
+	"NoGo_frame.h"
+	<Windows.h>
+	<fstream>
+
+1610882974 source:d:\my_project\nogo1\main.cpp
+	"NoGo_frame.h"
+	"NoGo.h"
+	<Windows.h>
+
+1610458853 source:d:\my_project\nogo1\game_frame.cpp
+	"NoGo_frame.h"
+	<Windows.h>
+
+1610889358 source:d:\my_project\nogo1\nogo.cpp
+	"NoGo.h"
+	<cstdlib>
+	<ctime>
+
+1610887600 d:\my_project\nogo1\nogo.h
+	"NoGo_frame.h"
+
+1610890031 source:d:\my_project\nogo1\nogo_high.cpp
+	"NoGo.h"
+	<cstdlib>
+	<ctime>
+
+1610612371 source:d:\my_project\nogo1\nogo_highest.cpp
+	"NoGo.h"
+	<cstdlib>
+	<ctime>
+
